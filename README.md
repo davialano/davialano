@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Davi, FrontEnd developer.</div>  
+### <div align="center">I'm Davi Alano, FrontEnd developer.</div>  
   
 
 - 🔭 I’m currently working on Unimed's Hospital.  
