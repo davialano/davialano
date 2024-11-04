@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Unimed's Hospital.  
   
 
-- 🌱 I’m currently learning TypeScript, Angular, Cypress and Software Architecture.  
+- 🌱 I’m currently learning PHP, DOCKER, and React.  
   
 
 <br/>  
